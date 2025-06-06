@@ -1,4 +1,4 @@
-# DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns
+<!-- # DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns
 
 [![IEEE TIFS](https://img.shields.io/badge/Published%20in-IEEE%20TIFS-blue)](https://ieeexplore.ieee.org/)
 [![Paper Status](https://img.shields.io/badge/Status-Published-brightgreen)]()
@@ -12,7 +12,7 @@
 This repository contains the **appendix** for the paper:
 
 > **DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns**  
-> *Yang Liu, \emph{Member, IEEE}, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, \emph{Member, IEEE}, and Ting Liu, \emph{Member, IEEE}*  
+> *Yang Liu, Member, IEEE, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, Member, IEEE, and Ting Liu, Member, IEEE*  
 > *Published in IEEE Transactions on Information Forensics and Security (TIFS)*  
 > **DOI**: `xxxx`
 
@@ -37,4 +37,62 @@ If you find this work useful in your research, please cite the paper as:
   journal={IEEE Transactions on Information Forensics and Security},
   year={2025},
   doi={xxxx}
+} -->
+# DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns
+
+[![Status](https://img.shields.io/badge/Publication%20Status-Minor%20Revision-yellow)]()
+[![Venue](https://img.shields.io/badge/Target%20Journal-IEEE%20TIFS-blue)]()
+[![Appendix](https://img.shields.io/badge/Supplementary-PDF-red)](./DEEPDRAC_Appendix.pdf)
+[![License](https://img.shields.io/badge/License-Academic%20Use-lightgrey)]()
+
+---
+
+## 📄 Overview
+
+This repository contains the **supplementary material** for the paper:
+
+> **DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns**  
+> *Yang Liu, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, and Ting Liu*    
+> *Under minor revision for IEEE Transactions on Information Forensics and Security (TIFS)*  
+> **DOI**: *To be updated upon acceptance*
+
+The appendix file `DEEPDRAC_Appendix.pdf` includes additional algorithm details, theoretical analysis, and extended experimental results that support the main content of the paper.
+
+---
+
+## 📦 Contents
+
+- `DEEPDRAC_Appendix.pdf` – Supplementary material for the DEEPDRAC paper submission.
+
+---
+
+## 📚 Citation
+If you find this work useful in your research, please cite the paper as:
+
+> *Note: This work is currently under minor revision and not yet published. A BibTeX citation will be provided upon acceptance.*
+```bibtex
+@article{liu2025deepdrac,
+  title={DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns},
+  author={Yang Liu, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, and Ting Liu},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2025},
+  doi={xxxx}
 }
+```
+
+---
+
+## 📬 Contact
+
+**Contact Authors:**  
+Yang Liu  
+Email: `yangliu@xjtu.edu.cn`  
+Affiliation: MOE KLINNS Lab of Xi’an Jiaotong University, Xi’an, Shaanxi Province 710049, China.  
+
+Gaofei Ruan  
+Email: `ruangaofei2000@gmail.com`  
+Affiliation: MOE KLINNS Lab of Xi’an Jiaotong University, Xi’an, Shaanxi Province 710049, China.
+
+---
+
+Thank you for your interest in **DEEPDRAC**!
