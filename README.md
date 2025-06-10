@@ -65,7 +65,7 @@ The appendix file `DEEPDRAC_Appendix.pdf` includes additional algorithm details,
 ## 📦 Contents
 
 - `DEEPDRAC_Appendix.pdf` – Supplementary material for the DEEPDRAC paper submission.
-
+- `DEEPDRAC_Appendix_marked.pdf` - Supplementary material with new or modified content highlighted in blue, facilitating easy identification of recent changes or updates.
 ---
 
 ## 📚 Citation
