@@ -94,6 +94,10 @@ Gaofei Ruan
 Email: `ruangaofei2000@gmail.com`  
 Affiliation: MOE KLINNS Lab of Xi’an Jiaotong University, Xi’an, Shaanxi Province 710049, China.
 
+Zian Luo  
+Email: `zianluo77@gmail.com`  
+Affiliation: MOE KLINNS Lab of Xi’an Jiaotong University, Xi’an, Shaanxi Province 710049, China.
+
 ---
 
 Thank you for your interest in **DEEPDRAC**!
