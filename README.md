@@ -22,7 +22,7 @@ The appendix (`DEEPDRAC_Appendix.pdf`) provides additional experimental results,
 
 ## 📦 Contents
 
-- `DEEPDRAC_Appendix.pdf` – Supplementary material supporting the TIFS publication.123
+- `DEEPDRAC_Appendix.pdf` – Supplementary material supporting the TIFS publication.
 - `DEEPDRAC_Appendix_marked.pdf` - Supplementary material with new or modified content highlighted in blue, facilitating easy identification of recent changes or updates.
 
 ---
