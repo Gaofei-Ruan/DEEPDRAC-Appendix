@@ -40,8 +40,8 @@ If you find this work useful in your research, please cite the paper as:
   doi={xxxx}
 } -->
 # DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns
-[![IEEE TIFS](https://img.shields.io/badge/Target%20Journal-IEEE%20TIFS-blue)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
-[![Paper Status](https://img.shields.io/badge/Status-Minor%20Revision-brightgreen)]()
+[![IEEE TIFS](https://img.shields.io/badge/Journal-IEEE%20TIFS-blue)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
+[![Paper Status](https://img.shields.io/badge/Status-Accept-brightgreen)]()
 [![Appendix](https://img.shields.io/badge/Supplementary-PDF-red)](./DEEPDRAC_Appendix.pdf)
 [![License](https://img.shields.io/badge/License-Academic%20Use-lightgrey)]()
 
@@ -55,8 +55,8 @@ This repository contains the **supplementary material** for the paper:
 
 > **DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns**  
 > *Yang Liu, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, and Ting Liu*    
-> *Under minor revision for IEEE Transactions on Information Forensics and Security (TIFS)*  
-> **DOI**: *To be updated upon acceptance*
+> *Accept for IEEE Transactions on Information Forensics and Security (TIFS)*  
+> **DOI**: *Awaiting assignment; it will be updated once the paper is formally published on IEEE Xplore.*
 
 The appendix file `DEEPDRAC_Appendix.pdf` includes additional algorithm details, theoretical analysis, and extended experimental results that support the main content of the paper.
 
@@ -65,13 +65,13 @@ The appendix file `DEEPDRAC_Appendix.pdf` includes additional algorithm details,
 ## 📦 Contents
 
 - `DEEPDRAC_Appendix.pdf` – Supplementary material for the DEEPDRAC paper submission.
-- `DEEPDRAC_Appendix_marked.pdf` - Supplementary material with new or modified content highlighted in blue, facilitating easy identification of recent changes or updates.
+
 ---
 
 ## 📚 Citation
 If you find this work useful in your research, please cite the paper as:
 
-> *Note: This work is currently under minor revision and not yet published. A BibTeX citation will be provided upon acceptance.*
+> *Note: This accepted manuscript is awaiting publication. The BibTeX citation, including the final DOI and publication details, will be provided after official release on IEEE Xplore.*
 ```bibtex
 @article{liu2025deepdrac,
   title={DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns},
