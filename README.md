@@ -41,7 +41,7 @@ If you find this work useful in your research, please cite the paper as:
 } -->
 # DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns
 [![IEEE TIFS](https://img.shields.io/badge/Journal-IEEE%20TIFS-blue)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
-[![Paper Status](https://img.shields.io/badge/Status-Accept-brightgreen)]()
+[![Paper Status](https://img.shields.io/badge/Status-Accepted-brightgreen)]()
 [![Appendix](https://img.shields.io/badge/Supplementary-PDF-red)](./DEEPDRAC_Appendix.pdf)
 [![License](https://img.shields.io/badge/License-Academic%20Use-lightgrey)]()
 
