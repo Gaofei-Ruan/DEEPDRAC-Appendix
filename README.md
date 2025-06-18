@@ -56,7 +56,7 @@ This repository contains the **supplementary material** for the paper:
 > **DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns**  
 > *Yang Liu, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, and Ting Liu*    
 > *Accept for IEEE Transactions on Information Forensics and Security (TIFS)*  
-> **DOI**: *Awaiting assignment; it will be updated once the paper is formally published on IEEE Xplore.*
+> **DOI**: 10.1109/TIFS.2025.3580337
 
 The appendix file `DEEPDRAC_Appendix.pdf` includes additional algorithm details, theoretical analysis, and extended experimental results that support the main content of the paper.
 
@@ -71,15 +71,17 @@ The appendix file `DEEPDRAC_Appendix.pdf` includes additional algorithm details,
 ## 📚 Citation
 If you find this work useful in your research, please cite the paper as:
 
-> *Note: This accepted manuscript is awaiting publication. The BibTeX citation, including the final DOI and publication details, will be provided after official release on IEEE Xplore.*
 ```bibtex
-@article{liu2025deepdrac,
-  title={DEEPDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns},
-  author={Yang Liu, Gaofei Ruan, Zian Luo, Shilong Zhang, Donghao Liu, Xin Fan, Yadong Zhou, and Ting Liu},
-  journal={IEEE Transactions on Information Forensics and Security},
+@ARTICLE{11037486,
+  author={Liu, Yang and Ruan, Gaofei and Luo, Zian and Zhang, Shilong and Liu, Donghao and Fan, Xin and Zhou, Yadong and Liu, Ting},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={DeepDRAC: Disposition Recommendation for Alert Clusters Based on Security Event Patterns}, 
   year={2025},
-  doi={xxxx}
-}
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Security;Feature extraction;Fatigue;Correlation;Training;Graph neural networks;Semantics;IP networks;Spatiotemporal phenomena;Hands;False Positive Alerts;Alert Fatigue;Pattern Recognition;Graph Neural Networks;Semi-Supervised Learning},
+  doi={10.1109/TIFS.2025.3580337}}
 ```
 
 ---
